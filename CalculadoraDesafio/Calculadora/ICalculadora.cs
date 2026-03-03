@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Text;
 
-namespace CalculadoraDesafio
+namespace CalculadoraDesafio.Calculadora
 {
     interface ICalculadora
     {

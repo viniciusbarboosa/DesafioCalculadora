@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Text;
 
-namespace CalculadoraDesafio
+namespace CalculadoraDesafio.Calculadora
 {
     class Calculadora:ICalculadora
     {
@@ -23,6 +23,10 @@ namespace CalculadoraDesafio
 
         public double divisao(double x, double y)
         {
+            if(y == 0)
+            {
+                throw new Exception("Divisao por zero nao Disponivel");
+            }
             var resultado = x / y;
             return resultado;
         }

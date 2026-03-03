@@ -12,3 +12,4 @@ C:\Users\Sieg\Documents\alura\CalculadoraDesafio\CalculadoraDesafio\obj\Debug\ne
 C:\Users\Sieg\Documents\alura\CalculadoraDesafio\CalculadoraDesafio\obj\Debug\net10.0\CalculadoraDesafio.pdb
 C:\Users\Sieg\Documents\alura\CalculadoraDesafio\CalculadoraDesafio\obj\Debug\net10.0\CalculadoraDesafio.genruntimeconfig.cache
 C:\Users\Sieg\Documents\alura\CalculadoraDesafio\CalculadoraDesafio\obj\Debug\net10.0\ref\CalculadoraDesafio.dll
+C:\Users\Sieg\Documents\alura\CalculadoraDesafio\CalculadoraDesafio\obj\Debug\net10.0\CalculadoraDesafio.sourcelink.json

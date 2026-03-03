@@ -1,4 +1,4 @@
-﻿using CalculadoraDesafio;
+﻿using CalculadoraDesafio.Calculadora;
 
 class Program
 {
@@ -28,9 +28,16 @@ class Program
                 double numero1 = double.Parse(Console.ReadLine());
                 Console.WriteLine("Escolha o numero 2");
                 double numero2 = double.Parse(Console.ReadLine());
-                double resultado = calculadora.somar(numero1, numero2);
-                Console.WriteLine("Soma = " + resultado);
-                historico.Add("Soma = " + resultado);
+                try{
+                    double resultado = calculadora.somar(numero1, numero2);
+                    Console.WriteLine("Soma = " + resultado);
+                    historico.Add("Soma = " + resultado);
+                }
+                catch (DivideByZeroException e)
+                {
+                    Console.WriteLine("Erro na Soma");
+                }
+                
             }
             else if (escolha == 2)
             {
@@ -38,9 +45,18 @@ class Program
                 double numero1 = double.Parse(Console.ReadLine());
                 Console.WriteLine("Escolha o numero 2");
                 double numero2 = double.Parse(Console.ReadLine());
-                double resultado = calculadora.subtrair(numero1, numero2);
-                Console.WriteLine("Subtracao = " + resultado);
-                historico.Add("Subtracao = " + resultado);
+
+                try
+                {
+                    double resultado = calculadora.subtrair(numero1, numero2);
+                    Console.WriteLine("Subtracao = " + resultado);
+                    historico.Add("Subtracao = " + resultado);
+                }
+                catch
+                {
+                    Console.WriteLine("Erro na subtração");
+                }
+                
             }
             else if (escolha == 3)
             {
@@ -48,9 +64,18 @@ class Program
                 double numero1 = double.Parse(Console.ReadLine());
                 Console.WriteLine("Escolha o numero 2");
                 double numero2 = double.Parse(Console.ReadLine());
-                double resultado = calculadora.multiplicacao(numero1, numero2);
-                Console.WriteLine("Multiplicação = " + resultado);
-                historico.Add("Multiplicação = " + resultado);
+
+                try
+                {
+                    double resultado = calculadora.multiplicacao(numero1, numero2);
+                    Console.WriteLine("Multiplicação = " + resultado);
+                    historico.Add("Multiplicação = " + resultado);
+                }
+                catch
+                {
+                    Console.WriteLine("Erro na Multiplicação");
+                }
+                
             }
             else if (escolha == 4)
             {
@@ -71,7 +96,7 @@ class Program
                 }
                 catch (Exception e)
                 {
-                    Console.WriteLine("Erro na divisão");
+                    Console.WriteLine(e.Message);
                 }
 
             }
