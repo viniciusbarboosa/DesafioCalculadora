@@ -1,0 +1,14 @@
+C:\Users\Sieg\Documents\alura\CalculadoraDesafio\CalculadoraDesafio\bin\Debug\net10.0\CalculadoraDesafio.exe
+C:\Users\Sieg\Documents\alura\CalculadoraDesafio\CalculadoraDesafio\bin\Debug\net10.0\CalculadoraDesafio.deps.json
+C:\Users\Sieg\Documents\alura\CalculadoraDesafio\CalculadoraDesafio\bin\Debug\net10.0\CalculadoraDesafio.runtimeconfig.json
+C:\Users\Sieg\Documents\alura\CalculadoraDesafio\CalculadoraDesafio\bin\Debug\net10.0\CalculadoraDesafio.dll
+C:\Users\Sieg\Documents\alura\CalculadoraDesafio\CalculadoraDesafio\bin\Debug\net10.0\CalculadoraDesafio.pdb
+C:\Users\Sieg\Documents\alura\CalculadoraDesafio\CalculadoraDesafio\obj\Debug\net10.0\CalculadoraDesafio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sieg\Documents\alura\CalculadoraDesafio\CalculadoraDesafio\obj\Debug\net10.0\CalculadoraDesafio.AssemblyInfoInputs.cache
+C:\Users\Sieg\Documents\alura\CalculadoraDesafio\CalculadoraDesafio\obj\Debug\net10.0\CalculadoraDesafio.AssemblyInfo.cs
+C:\Users\Sieg\Documents\alura\CalculadoraDesafio\CalculadoraDesafio\obj\Debug\net10.0\CalculadoraDesafio.csproj.CoreCompileInputs.cache
+C:\Users\Sieg\Documents\alura\CalculadoraDesafio\CalculadoraDesafio\obj\Debug\net10.0\CalculadoraDesafio.dll
+C:\Users\Sieg\Documents\alura\CalculadoraDesafio\CalculadoraDesafio\obj\Debug\net10.0\refint\CalculadoraDesafio.dll
+C:\Users\Sieg\Documents\alura\CalculadoraDesafio\CalculadoraDesafio\obj\Debug\net10.0\CalculadoraDesafio.pdb
+C:\Users\Sieg\Documents\alura\CalculadoraDesafio\CalculadoraDesafio\obj\Debug\net10.0\CalculadoraDesafio.genruntimeconfig.cache
+C:\Users\Sieg\Documents\alura\CalculadoraDesafio\CalculadoraDesafio\obj\Debug\net10.0\ref\CalculadoraDesafio.dll

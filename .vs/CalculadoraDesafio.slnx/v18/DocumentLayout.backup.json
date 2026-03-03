@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Sieg\\Documents\\alura\\CalculadoraDesafio\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9BD34DF7-6140-AC67-22E6-3E66C86334B3}|CalculadoraDesafio\\CalculadoraDesafio.csproj|c:\\users\\sieg\\documents\\alura\\calculadoradesafio\\calculadoradesafio\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9BD34DF7-6140-AC67-22E6-3E66C86334B3}|CalculadoraDesafio\\CalculadoraDesafio.csproj|solutionrelative:calculadoradesafio\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9BD34DF7-6140-AC67-22E6-3E66C86334B3}|CalculadoraDesafio\\CalculadoraDesafio.csproj|c:\\users\\sieg\\documents\\alura\\calculadoradesafio\\calculadoradesafio\\calculadora.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9BD34DF7-6140-AC67-22E6-3E66C86334B3}|CalculadoraDesafio\\CalculadoraDesafio.csproj|solutionrelative:calculadoradesafio\\calculadora.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9BD34DF7-6140-AC67-22E6-3E66C86334B3}|CalculadoraDesafio\\CalculadoraDesafio.csproj|c:\\users\\sieg\\documents\\alura\\calculadoradesafio\\calculadoradesafio\\icalculadora.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9BD34DF7-6140-AC67-22E6-3E66C86334B3}|CalculadoraDesafio\\CalculadoraDesafio.csproj|solutionrelative:calculadoradesafio\\icalculadora.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ICalculadora.cs",
+              "DocumentMoniker": "C:\\Users\\Sieg\\Documents\\alura\\CalculadoraDesafio\\CalculadoraDesafio\\ICalculadora.cs",
+              "RelativeDocumentMoniker": "CalculadoraDesafio\\ICalculadora.cs",
+              "ToolTip": "C:\\Users\\Sieg\\Documents\\alura\\CalculadoraDesafio\\CalculadoraDesafio\\ICalculadora.cs",
+              "RelativeToolTip": "CalculadoraDesafio\\ICalculadora.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-02T17:52:20.213Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Calculadora.cs",
+              "DocumentMoniker": "C:\\Users\\Sieg\\Documents\\alura\\CalculadoraDesafio\\CalculadoraDesafio\\Calculadora.cs",
+              "RelativeDocumentMoniker": "CalculadoraDesafio\\Calculadora.cs",
+              "ToolTip": "C:\\Users\\Sieg\\Documents\\alura\\CalculadoraDesafio\\CalculadoraDesafio\\Calculadora.cs",
+              "RelativeToolTip": "CalculadoraDesafio\\Calculadora.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-02T16:40:20.663Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Sieg\\Documents\\alura\\CalculadoraDesafio\\CalculadoraDesafio\\Program.cs",
+              "RelativeDocumentMoniker": "CalculadoraDesafio\\Program.cs",
+              "ToolTip": "C:\\Users\\Sieg\\Documents\\alura\\CalculadoraDesafio\\CalculadoraDesafio\\Program.cs",
+              "RelativeToolTip": "CalculadoraDesafio\\Program.cs",
+              "ViewState": "AgIAAC8AAAAAAAAAAAAQwEcAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-02T16:29:48.017Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
