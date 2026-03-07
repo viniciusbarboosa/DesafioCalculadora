@@ -118,9 +118,9 @@ namespace CalculadoraDesafio.Services
                 }
                 else if (escolha == 4)
                 {
-                    Console.WriteLine("Digite o Primeiro número da Subtração");
+                    Console.WriteLine("Digite o Primeiro número da Divisão");
                     double numero1 = double.Parse(Console.ReadLine());
-                    Console.WriteLine("Digite o Segundo número da Subtração");
+                    Console.WriteLine("Digite o Segundo número da Divisão");
                     double numero2 = double.Parse(Console.ReadLine());
 
                     try
