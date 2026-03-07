@@ -3,7 +3,10 @@ using CalculadoraDesafio.Calculadora.Divisao;
 using CalculadoraDesafio.Calculadora.Multiplicacao;
 using CalculadoraDesafio.Calculadora.Soma;
 using CalculadoraDesafio.Calculadora.Subtracao;
+using CalculadoraDesafio.Entities;
+using CalculadoraDesafio.Repositories;
 using System;
+using System.Collections;
 using System.Collections.Generic;
 using System.Text;
 
@@ -12,11 +15,12 @@ namespace CalculadoraDesafio.Services
     class CalculadoraService
     {
         private ICalculadora _calculadora;
-        private List<string> historico = new List<string>();
+        private IHistorico _historico;
 
-        public CalculadoraService(ICalculadora calculadora)
+        public CalculadoraService(ICalculadora calculadora,IHistorico historico)
         {
             _calculadora = calculadora;
+            _historico = historico;
         }
 
         private void MostrarInterfaceCalculadora()
@@ -27,15 +31,6 @@ namespace CalculadoraDesafio.Services
             Console.WriteLine("[3] Multiplicação");
             Console.WriteLine("[4] Divisao");
             Console.WriteLine("[5] Sair");
-        }
-
-        private void MostrarHistorico()
-        {
-            Console.WriteLine("Historico de Consultas");
-            foreach (var item in historico)
-            {
-                Console.WriteLine(item);
-            }
         }
 
         public void IniciarCalculadora()
@@ -57,9 +52,15 @@ namespace CalculadoraDesafio.Services
                     {
                         double resultado = _calculadora.Somar(numero1, numero2);
                         Console.WriteLine("Soma = " + resultado);
-                        historico.Add("Soma = " + resultado);
+                        _historico.Salvar(new Operacao {
+                            Tipo = "Soma",
+                            Simbolo = "+",
+                            Numero1 = numero1,
+                            Numero2 = numero2,
+                            Resultado = resultado
+                        });
                     }
-                    catch (DivideByZeroException e)
+                    catch (Exception e)
                     {
                         Console.WriteLine("Erro na Soma");
                     }
@@ -76,7 +77,13 @@ namespace CalculadoraDesafio.Services
                     {
                         double resultado = _calculadora.Subtrair(numero1, numero2);
                         Console.WriteLine("Subtracao = " + resultado);
-                        historico.Add("Subtracao = " + resultado);
+                        _historico.Salvar(new Operacao {
+                            Tipo = "Subtracao",
+                            Simbolo = "-",
+                            Numero1 = numero1,
+                            Numero2 = numero2,
+                            Resultado = resultado
+                        });
                     }
                     catch
                     {
@@ -88,14 +95,20 @@ namespace CalculadoraDesafio.Services
                 {
                     Console.WriteLine("Digite o Primeiro número da Multiplicação");
                     double numero1 = double.Parse(Console.ReadLine());
-                    Console.WriteLine("Digite o Segundo número da Subtração");
+                    Console.WriteLine("Digite o Segundo número da Multiplicação");
                     double numero2 = double.Parse(Console.ReadLine());
 
                     try
                     {
                         double resultado = _calculadora.Multiplicacao(numero1, numero2);
                         Console.WriteLine("Multiplicação = " + resultado);
-                        historico.Add("Multiplicação = " + resultado);
+                        _historico.Salvar(new Operacao {
+                            Tipo = "Multiplicação",
+                            Simbolo = "*",
+                            Numero1 = numero1,
+                            Numero2 = numero2,
+                            Resultado = resultado
+                        });
                     }
                     catch
                     {
@@ -114,7 +127,14 @@ namespace CalculadoraDesafio.Services
                     {
                         double resultado = _calculadora.Divisao(numero1, numero2);
                         Console.WriteLine("Divisão = " + resultado);
-                        historico.Add("Divisão = " + resultado);
+                        _historico.Salvar(new Operacao
+                        {
+                            Tipo = "Divisão",
+                            Simbolo = "/",
+                            Numero1 = numero1,
+                            Numero2 = numero2,
+                            Resultado = resultado
+                        });
                     }
                     catch (DivideByZeroException e)
                     {
@@ -122,7 +142,7 @@ namespace CalculadoraDesafio.Services
                     }
                     catch (Exception e)
                     {
-                        Console.WriteLine(e.Message);
+                        Console.WriteLine("Erro ao fazer divisão");
                     }
 
                 }
@@ -142,7 +162,12 @@ namespace CalculadoraDesafio.Services
 
             }
 
-            this.MostrarHistorico();
+            var historico = _historico.MostrarHistorico();
+            foreach (var item in historico)
+            {
+                Console.WriteLine($"{item.Tipo}: {item.Numero1} {item.Simbolo} {item.Numero2} = {item.Resultado}");
+            }
+
         }
 
     }

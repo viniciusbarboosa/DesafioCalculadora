@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Sieg\\Documents\\alura\\CalculadoraDesafio\\CalculadoraDesafio\\CalculadoraDesafio.csproj": {}
+    "C:\\Users\\Usuario\\Documents\\Sieg\\estudo\\DesafioCalculadora\\CalculadoraDesafio\\CalculadoraDesafio.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Sieg\\Documents\\alura\\CalculadoraDesafio\\CalculadoraDesafio\\CalculadoraDesafio.csproj": {
+    "C:\\Users\\Usuario\\Documents\\Sieg\\estudo\\DesafioCalculadora\\CalculadoraDesafio\\CalculadoraDesafio.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Sieg\\Documents\\alura\\CalculadoraDesafio\\CalculadoraDesafio\\CalculadoraDesafio.csproj",
+        "projectUniqueName": "C:\\Users\\Usuario\\Documents\\Sieg\\estudo\\DesafioCalculadora\\CalculadoraDesafio\\CalculadoraDesafio.csproj",
         "projectName": "CalculadoraDesafio",
-        "projectPath": "C:\\Users\\Sieg\\Documents\\alura\\CalculadoraDesafio\\CalculadoraDesafio\\CalculadoraDesafio.csproj",
-        "packagesPath": "C:\\Users\\Sieg\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Sieg\\Documents\\alura\\CalculadoraDesafio\\CalculadoraDesafio\\obj\\",
+        "projectPath": "C:\\Users\\Usuario\\Documents\\Sieg\\estudo\\DesafioCalculadora\\CalculadoraDesafio\\CalculadoraDesafio.csproj",
+        "packagesPath": "C:\\Users\\Usuario\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Usuario\\Documents\\Sieg\\estudo\\DesafioCalculadora\\CalculadoraDesafio\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\Sieg\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Usuario\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],

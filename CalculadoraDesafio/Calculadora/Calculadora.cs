@@ -42,7 +42,7 @@ namespace CalculadoraDesafio.Calculadora
         {
             if(y == 0)
             {
-                throw new Exception("Divisao por zero nao Disponivel");
+                throw new DivideByZeroException("Divisao por zero nao Disponivel");
             }
             var resultado = _divisao.Dividir(x, y);
             return resultado;
