@@ -3,20 +3,24 @@
   "WorkspaceRootPath": "C:\\Users\\Usuario\\Documents\\Sieg\\estudo\\DesafioCalculadora\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{9BD34DF7-6140-AC67-22E6-3E66C86334B3}|CalculadoraDesafio\\CalculadoraDesafio.csproj|c:\\users\\usuario\\documents\\sieg\\estudo\\desafiocalculadora\\calculadoradesafio\\repositories\\historico.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9BD34DF7-6140-AC67-22E6-3E66C86334B3}|CalculadoraDesafio\\CalculadoraDesafio.csproj|solutionrelative:calculadoradesafio\\repositories\\historico.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{9BD34DF7-6140-AC67-22E6-3E66C86334B3}|CalculadoraDesafio\\CalculadoraDesafio.csproj|c:\\users\\usuario\\documents\\sieg\\estudo\\desafiocalculadora\\calculadoradesafio\\services\\calculadoraservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9BD34DF7-6140-AC67-22E6-3E66C86334B3}|CalculadoraDesafio\\CalculadoraDesafio.csproj|solutionrelative:calculadoradesafio\\services\\calculadoraservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9BD34DF7-6140-AC67-22E6-3E66C86334B3}|CalculadoraDesafio\\CalculadoraDesafio.csproj|c:\\users\\usuario\\documents\\sieg\\estudo\\desafiocalculadora\\calculadoradesafio\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9BD34DF7-6140-AC67-22E6-3E66C86334B3}|CalculadoraDesafio\\CalculadoraDesafio.csproj|solutionrelative:calculadoradesafio\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{9BD34DF7-6140-AC67-22E6-3E66C86334B3}|CalculadoraDesafio\\CalculadoraDesafio.csproj|c:\\users\\usuario\\documents\\sieg\\estudo\\desafiocalculadora\\calculadoradesafio\\repositories\\ihistorico.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9BD34DF7-6140-AC67-22E6-3E66C86334B3}|CalculadoraDesafio\\CalculadoraDesafio.csproj|solutionrelative:calculadoradesafio\\repositories\\ihistorico.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9BD34DF7-6140-AC67-22E6-3E66C86334B3}|CalculadoraDesafio\\CalculadoraDesafio.csproj|c:\\users\\usuario\\documents\\sieg\\estudo\\desafiocalculadora\\calculadoradesafio\\repositories\\historico.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9BD34DF7-6140-AC67-22E6-3E66C86334B3}|CalculadoraDesafio\\CalculadoraDesafio.csproj|solutionrelative:calculadoradesafio\\repositories\\historico.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{9BD34DF7-6140-AC67-22E6-3E66C86334B3}|CalculadoraDesafio\\CalculadoraDesafio.csproj|c:\\users\\usuario\\documents\\sieg\\estudo\\desafiocalculadora\\calculadoradesafio\\entities\\operacao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9BD34DF7-6140-AC67-22E6-3E66C86334B3}|CalculadoraDesafio\\CalculadoraDesafio.csproj|solutionrelative:calculadoradesafio\\entities\\operacao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9BD34DF7-6140-AC67-22E6-3E66C86334B3}|CalculadoraDesafio\\CalculadoraDesafio.csproj|c:\\users\\usuario\\documents\\sieg\\estudo\\desafiocalculadora\\calculadoradesafio\\services\\calculadoraservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9BD34DF7-6140-AC67-22E6-3E66C86334B3}|CalculadoraDesafio\\CalculadoraDesafio.csproj|solutionrelative:calculadoradesafio\\services\\calculadoraservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{9BD34DF7-6140-AC67-22E6-3E66C86334B3}|CalculadoraDesafio\\CalculadoraDesafio.csproj|c:\\users\\usuario\\documents\\sieg\\estudo\\desafiocalculadora\\calculadoradesafio\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9BD34DF7-6140-AC67-22E6-3E66C86334B3}|CalculadoraDesafio\\CalculadoraDesafio.csproj|solutionrelative:calculadoradesafio\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{9BD34DF7-6140-AC67-22E6-3E66C86334B3}|CalculadoraDesafio\\CalculadoraDesafio.csproj|c:\\users\\usuario\\documents\\sieg\\estudo\\desafiocalculadora\\calculadoradesafio\\calculadora\\calculadora.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -25,10 +29,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{9BD34DF7-6140-AC67-22E6-3E66C86334B3}|CalculadoraDesafio\\CalculadoraDesafio.csproj|c:\\users\\usuario\\documents\\sieg\\estudo\\desafiocalculadora\\calculadoradesafio\\calculadora\\icalculadora.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9BD34DF7-6140-AC67-22E6-3E66C86334B3}|CalculadoraDesafio\\CalculadoraDesafio.csproj|solutionrelative:calculadoradesafio\\calculadora\\icalculadora.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9BD34DF7-6140-AC67-22E6-3E66C86334B3}|CalculadoraDesafio\\CalculadoraDesafio.csproj|c:\\users\\usuario\\documents\\sieg\\estudo\\desafiocalculadora\\calculadoradesafio\\repositories\\ihistorico.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9BD34DF7-6140-AC67-22E6-3E66C86334B3}|CalculadoraDesafio\\CalculadoraDesafio.csproj|solutionrelative:calculadoradesafio\\repositories\\ihistorico.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{9BD34DF7-6140-AC67-22E6-3E66C86334B3}|CalculadoraDesafio\\CalculadoraDesafio.csproj|c:\\users\\usuario\\documents\\sieg\\estudo\\desafiocalculadora\\calculadoradesafio\\calculadora\\divisao\\divisao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -74,11 +74,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "Historico.cs",
               "DocumentMoniker": "C:\\Users\\Usuario\\Documents\\Sieg\\estudo\\DesafioCalculadora\\CalculadoraDesafio\\Repositories\\Historico.cs",
               "RelativeDocumentMoniker": "CalculadoraDesafio\\Repositories\\Historico.cs",
@@ -86,12 +86,11 @@
               "RelativeToolTip": "CalculadoraDesafio\\Repositories\\Historico.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAwAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-07T07:16:49.485Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-07T07:16:49.485Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Operacao.cs",
               "DocumentMoniker": "C:\\Users\\Usuario\\Documents\\Sieg\\estudo\\DesafioCalculadora\\CalculadoraDesafio\\Entities\\Operacao.cs",
               "RelativeDocumentMoniker": "CalculadoraDesafio\\Entities\\Operacao.cs",
@@ -103,7 +102,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 1,
               "Title": "IHistorico.cs",
               "DocumentMoniker": "C:\\Users\\Usuario\\Documents\\Sieg\\estudo\\DesafioCalculadora\\CalculadoraDesafio\\Repositories\\IHistorico.cs",
               "RelativeDocumentMoniker": "CalculadoraDesafio\\Repositories\\IHistorico.cs",
@@ -111,11 +110,12 @@
               "RelativeToolTip": "CalculadoraDesafio\\Repositories\\IHistorico.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAqwAsAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-07T07:10:52.183Z"
+              "WhenOpened": "2026-03-07T07:10:52.183Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "ICalculadora.cs",
               "DocumentMoniker": "C:\\Users\\Usuario\\Documents\\Sieg\\estudo\\DesafioCalculadora\\CalculadoraDesafio\\Calculadora\\ICalculadora.cs",
               "RelativeDocumentMoniker": "CalculadoraDesafio\\Calculadora\\ICalculadora.cs",
@@ -127,15 +127,16 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 0,
               "Title": "CalculadoraService.cs",
               "DocumentMoniker": "C:\\Users\\Usuario\\Documents\\Sieg\\estudo\\DesafioCalculadora\\CalculadoraDesafio\\Services\\CalculadoraService.cs",
               "RelativeDocumentMoniker": "CalculadoraDesafio\\Services\\CalculadoraService.cs",
-              "ToolTip": "C:\\Users\\Usuario\\Documents\\Sieg\\estudo\\DesafioCalculadora\\CalculadoraDesafio\\Services\\CalculadoraService.cs",
-              "RelativeToolTip": "CalculadoraDesafio\\Services\\CalculadoraService.cs",
-              "ViewState": "AgIAAHsAAAAAAAAAAAAhwJAAAAA6AAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\Usuario\\Documents\\Sieg\\estudo\\DesafioCalculadora\\CalculadoraDesafio\\Services\\CalculadoraService.cs*",
+              "RelativeToolTip": "CalculadoraDesafio\\Services\\CalculadoraService.cs*",
+              "ViewState": "AgIAAJEAAAAAAAAAAAASwKUAAAA0AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-03T14:07:07.193Z"
+              "WhenOpened": "2026-03-03T14:07:07.193Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -151,7 +152,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "Calculadora.cs",
               "DocumentMoniker": "C:\\Users\\Usuario\\Documents\\Sieg\\estudo\\DesafioCalculadora\\CalculadoraDesafio\\Calculadora\\Calculadora.cs",
               "RelativeDocumentMoniker": "CalculadoraDesafio\\Calculadora\\Calculadora.cs",
@@ -163,7 +164,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Usuario\\Documents\\Sieg\\estudo\\DesafioCalculadora\\CalculadoraDesafio\\Program.cs",
               "RelativeDocumentMoniker": "CalculadoraDesafio\\Program.cs",

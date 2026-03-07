@@ -148,6 +148,7 @@ namespace CalculadoraDesafio.Services
                 }
                 else if (escolha == 5)
                 {
+                    Console.Clear();
                     break;
                 }
                 else
@@ -162,6 +163,7 @@ namespace CalculadoraDesafio.Services
 
             }
 
+            Console.WriteLine("HISTÓRICO DE CÁLCULOS");
             var historico = _historico.MostrarHistorico();
             foreach (var item in historico)
             {
